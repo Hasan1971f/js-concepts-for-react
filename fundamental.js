@@ -40,3 +40,7 @@ function multiply(num1, num2){
 
 const output = multiply(35, 78)
 console.log(output)
+
+// 6 object
+// 3 ways to eccess property by name
+
